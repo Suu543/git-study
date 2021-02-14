@@ -1,1 +1,1 @@
-# git-fundamentals
+# git-study
